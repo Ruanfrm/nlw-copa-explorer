@@ -4,7 +4,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar]()
+[🔗 Clique aqui para acessar](https://nlw-copa-e.vercel.app/)
 
 
 ## 🛠 Tecnologias
